@@ -1,4 +1,4 @@
-ESX              = exports['es_extended']:getSharedObject()
+ESX = exports['es_extended']:getSharedObject()
 local PlayerData = {}
 local curGang = nil
 local curRank = nil
